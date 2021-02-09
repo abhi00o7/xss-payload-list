@@ -12,8 +12,6 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 
 * [XSStrike](https://github.com/UltimateHackers/XSStrike)
 
-* [BruteXSS Terminal](https://github.com/shawarkhanethicalhacker/BruteXSS)
-
 * [BruteXSS GUI](https://github.com/rajeshmajumdar/BruteXSS)
 
 * [XSS Scanner Online](http://xss-scanner.com/)
